@@ -1,0 +1,54 @@
+[
+  {
+    "name": "bug",
+    "color": "#dc322f"
+  },
+  {
+    "name": "needs pr",
+    "color": "#d33682"
+  },
+  {
+    "name": "has pr",
+    "color": "#6c71c4"
+  },
+  {
+    "name": "help wanted",
+    "color": "#268bd2"
+  },
+  {
+    "name": "question",
+    "color": "#2aa198"
+  },
+  {
+    "name": "enhancement",
+    "color": "#859900"
+  },
+  {
+    "name": "concept",
+    "color": "#657b83"
+  },
+  {
+    "name": "external",
+    "color": "#586e75"
+  },
+  {
+    "name": "duplicate",
+    "color": "#073642"
+  },
+  {
+    "name": "no",
+    "color": "#002b36"
+  },
+  {
+    "name": "patch",
+    "color": "#93a1a1"
+  },
+  {
+    "name": "minor",
+    "color": "#eee8d5"
+  },
+  {
+    "name": "major",
+    "color": "#fdf6e3"
+  }
+]
