@@ -1,5 +1,17 @@
 [
   {
+    "name": "priority",
+    "color": "#859900"
+  },
+  {
+    "name": "low priority",
+    "color": "#cb4b16"
+  },
+  {
+    "name": "future",
+    "color": "#b58900"
+  },
+  {
     "name": "bug",
     "color": "#dc322f"
   },
@@ -22,6 +34,10 @@
   {
     "name": "enhancement",
     "color": "#859900"
+  },
+  {
+    "name": "good for beginner",
+    "color": "#b58900"
   },
   {
     "name": "concept",
@@ -48,7 +64,15 @@
     "color": "#eee8d5"
   },
   {
+    "name": "feature",
+    "color": "#eee8d5"
+  },
+  {
     "name": "major",
+    "color": "#fdf6e3"
+  },
+  {
+    "name": "change",
     "color": "#fdf6e3"
   }
 ]
